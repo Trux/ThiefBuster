@@ -1,0 +1,18 @@
+{
+  "type": "privileged"
+  "version": "0.1",
+  "name": "ThiefBuster",
+  "description": "Find who is trying to use your phone",
+  "launch_path": "/",
+  "icons": {
+    "128": "/Users/christophe/Pictures/thief.png"
+  },
+  "developer": {
+    "name": "Trux",
+    "url": "truxs.com"
+  },
+  "fullscreen": "true",
+  "default_locale": "en",
+  
+  } 
+}
