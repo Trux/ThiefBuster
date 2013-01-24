@@ -13,6 +13,23 @@
   },
   "fullscreen": "true",
   "default_locale": "en",
+  "permissions": {
+    "device-storage:pictures": {
+      "description": "require to save the pictures ont he phone",
+      "access": "createonly"
+    },
+    "geolocation": {
+      "description":"detect thief position"
+    }
+    "network-http": {
+      "description":"mail you the data"
+    }
+    "camera": {
+      "description":"take a picture of your thief"
+    }
   
+    "backgroundservice": {
+      "allow ThiefBuster to run as a background task"
+    }
   } 
 }
